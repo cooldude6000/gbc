@@ -1,0 +1,2126 @@
+[
+    {
+        "id": "1",
+        "start": 0,
+        "end": 15,
+        "text": "Hi"
+    },
+    {
+        "id": "2",
+        "start": 15,
+        "end": 30,
+        "text": "everyone!"
+    },
+    {
+        "id": "3",
+        "start": 30,
+        "end": 45,
+        "text": "My"
+    },
+    {
+        "id": "4",
+        "start": 45,
+        "end": 60,
+        "text": "name"
+    },
+    {
+        "id": "5",
+        "start": 60,
+        "end": 75,
+        "text": "is"
+    },
+    {
+        "id": "6",
+        "start": 75,
+        "end": 90,
+        "text": "Messi,"
+    },
+    {
+        "id": "7",
+        "start": 90,
+        "end": 105,
+        "text": "and"
+    },
+    {
+        "id": "8",
+        "start": 105,
+        "end": 120,
+        "text": "I’m"
+    },
+    {
+        "id": "9",
+        "start": 120,
+        "end": 135,
+        "text": "a"
+    },
+    {
+        "id": "10",
+        "start": 135,
+        "end": 150,
+        "text": "Product"
+    },
+    {
+        "id": "11",
+        "start": 150,
+        "end": 165,
+        "text": "Manager"
+    },
+    {
+        "id": "12",
+        "start": 165,
+        "end": 180,
+        "text": "at"
+    },
+    {
+        "id": "13",
+        "start": 180,
+        "end": 195,
+        "text": "TechCorp."
+    },
+    {
+        "id": "14",
+        "start": 195,
+        "end": 210,
+        "text": "I’ve"
+    },
+    {
+        "id": "15",
+        "start": 210,
+        "end": 225,
+        "text": "been"
+    },
+    {
+        "id": "16",
+        "start": 225,
+        "end": 240,
+        "text": "working"
+    },
+    {
+        "id": "17",
+        "start": 240,
+        "end": 255,
+        "text": "in"
+    },
+    {
+        "id": "18",
+        "start": 255,
+        "end": 270,
+        "text": "the"
+    },
+    {
+        "id": "19",
+        "start": 270,
+        "end": 285,
+        "text": "tech"
+    },
+    {
+        "id": "20",
+        "start": 285,
+        "end": 300,
+        "text": "industry"
+    },
+    {
+        "id": "21",
+        "start": 300,
+        "end": 315,
+        "text": "for"
+    },
+    {
+        "id": "22",
+        "start": 315,
+        "end": 330,
+        "text": "over"
+    },
+    {
+        "id": "23",
+        "start": 330,
+        "end": 345,
+        "text": "five"
+    },
+    {
+        "id": "24",
+        "start": 345,
+        "end": 360,
+        "text": "years"
+    },
+    {
+        "id": "25",
+        "start": 360,
+        "end": 375,
+        "text": "now."
+    },
+    {
+        "id": "26",
+        "start": 375,
+        "end": 390,
+        "text": "In"
+    },
+    {
+        "id": "27",
+        "start": 390,
+        "end": 405,
+        "text": "this"
+    },
+    {
+        "id": "28",
+        "start": 405,
+        "end": 420,
+        "text": "video,"
+    },
+    {
+        "id": "29",
+        "start": 420,
+        "end": 435,
+        "text": "I’ll"
+    },
+    {
+        "id": "30",
+        "start": 435,
+        "end": 450,
+        "text": "explain"
+    },
+    {
+        "id": "31",
+        "start": 450,
+        "end": 465,
+        "text": "how"
+    },
+    {
+        "id": "32",
+        "start": 465,
+        "end": 480,
+        "text": "to"
+    },
+    {
+        "id": "33",
+        "start": 480,
+        "end": 495,
+        "text": "use"
+    },
+    {
+        "id": "34",
+        "start": 495,
+        "end": 510,
+        "text": "Google"
+    },
+    {
+        "id": "35",
+        "start": 510,
+        "end": 525,
+        "text": "Docs."
+    },
+    {
+        "id": "36",
+        "start": 525,
+        "end": 540,
+        "text": "Let’s"
+    },
+    {
+        "id": "37",
+        "start": 540,
+        "end": 555,
+        "text": "get"
+    },
+    {
+        "id": "38",
+        "start": 555,
+        "end": 570,
+        "text": "started!"
+    },
+    {
+        "id": "39",
+        "start": 570,
+        "end": 585,
+        "text": "First,"
+    },
+    {
+        "id": "40",
+        "start": 585,
+        "end": 600,
+        "text": "open"
+    },
+    {
+        "id": "41",
+        "start": 600,
+        "end": 615,
+        "text": "your"
+    },
+    {
+        "id": "42",
+        "start": 615,
+        "end": 630,
+        "text": "web"
+    },
+    {
+        "id": "43",
+        "start": 630,
+        "end": 645,
+        "text": "browser"
+    },
+    {
+        "id": "44",
+        "start": 645,
+        "end": 660,
+        "text": "and"
+    },
+    {
+        "id": "45",
+        "start": 660,
+        "end": 675,
+        "text": "navigate"
+    },
+    {
+        "id": "46",
+        "start": 675,
+        "end": 690,
+        "text": "to"
+    },
+    {
+        "id": "47",
+        "start": 690,
+        "end": 705,
+        "text": "docs.google.com."
+    },
+    {
+        "id": "48",
+        "start": 705,
+        "end": 720,
+        "text": "If"
+    },
+    {
+        "id": "49",
+        "start": 720,
+        "end": 735,
+        "text": "you’re"
+    },
+    {
+        "id": "50",
+        "start": 735,
+        "end": 750,
+        "text": "not"
+    },
+    {
+        "id": "51",
+        "start": 750,
+        "end": 765,
+        "text": "already"
+    },
+    {
+        "id": "52",
+        "start": 765,
+        "end": 780,
+        "text": "signed"
+    },
+    {
+        "id": "53",
+        "start": 780,
+        "end": 795,
+        "text": "in,"
+    },
+    {
+        "id": "54",
+        "start": 795,
+        "end": 810,
+        "text": "use"
+    },
+    {
+        "id": "55",
+        "start": 810,
+        "end": 825,
+        "text": "your"
+    },
+    {
+        "id": "56",
+        "start": 825,
+        "end": 840,
+        "text": "Google"
+    },
+    {
+        "id": "57",
+        "start": 840,
+        "end": 855,
+        "text": "account"
+    },
+    {
+        "id": "58",
+        "start": 855,
+        "end": 870,
+        "text": "to"
+    },
+    {
+        "id": "59",
+        "start": 870,
+        "end": 885,
+        "text": "log"
+    },
+    {
+        "id": "60",
+        "start": 885,
+        "end": 900,
+        "text": "in."
+    },
+    {
+        "id": "61",
+        "start": 900,
+        "end": 915,
+        "text": "Once"
+    },
+    {
+        "id": "62",
+        "start": 915,
+        "end": 930,
+        "text": "you’re"
+    },
+    {
+        "id": "63",
+        "start": 930,
+        "end": 945,
+        "text": "on"
+    },
+    {
+        "id": "64",
+        "start": 945,
+        "end": 960,
+        "text": "the"
+    },
+    {
+        "id": "65",
+        "start": 960,
+        "end": 975,
+        "text": "homepage,"
+    },
+    {
+        "id": "66",
+        "start": 975,
+        "end": 990,
+        "text": "click"
+    },
+    {
+        "id": "67",
+        "start": 990,
+        "end": 1005,
+        "text": "on"
+    },
+    {
+        "id": "68",
+        "start": 1005,
+        "end": 1020,
+        "text": "the"
+    },
+    {
+        "id": "69",
+        "start": 1020,
+        "end": 1035,
+        "text": "'Blank'"
+    },
+    {
+        "id": "70",
+        "start": 1035,
+        "end": 1050,
+        "text": "document"
+    },
+    {
+        "id": "71",
+        "start": 1050,
+        "end": 1065,
+        "text": "to"
+    },
+    {
+        "id": "72",
+        "start": 1065,
+        "end": 1080,
+        "text": "start"
+    },
+    {
+        "id": "73",
+        "start": 1080,
+        "end": 1095,
+        "text": "a"
+    },
+    {
+        "id": "74",
+        "start": 1095,
+        "end": 1110,
+        "text": "new"
+    },
+    {
+        "id": "75",
+        "start": 1110,
+        "end": 1125,
+        "text": "file."
+    },
+    {
+        "id": "76",
+        "start": 1125,
+        "end": 1140,
+        "text": "You"
+    },
+    {
+        "id": "77",
+        "start": 1140,
+        "end": 1155,
+        "text": "can"
+    },
+    {
+        "id": "78",
+        "start": 1155,
+        "end": 1170,
+        "text": "see"
+    },
+    {
+        "id": "79",
+        "start": 1170,
+        "end": 1185,
+        "text": "the"
+    },
+    {
+        "id": "80",
+        "start": 1185,
+        "end": 1200,
+        "text": "toolbar"
+    },
+    {
+        "id": "81",
+        "start": 1200,
+        "end": 1215,
+        "text": "at"
+    },
+    {
+        "id": "82",
+        "start": 1215,
+        "end": 1230,
+        "text": "the"
+    },
+    {
+        "id": "83",
+        "start": 1230,
+        "end": 1245,
+        "text": "top,"
+    },
+    {
+        "id": "84",
+        "start": 1245,
+        "end": 1260,
+        "text": "which"
+    },
+    {
+        "id": "85",
+        "start": 1260,
+        "end": 1275,
+        "text": "allows"
+    },
+    {
+        "id": "86",
+        "start": 1275,
+        "end": 1290,
+        "text": "you"
+    },
+    {
+        "id": "87",
+        "start": 1290,
+        "end": 1305,
+        "text": "to"
+    },
+    {
+        "id": "88",
+        "start": 1305,
+        "end": 1320,
+        "text": "format"
+    },
+    {
+        "id": "89",
+        "start": 1320,
+        "end": 1335,
+        "text": "text,"
+    },
+    {
+        "id": "90",
+        "start": 1335,
+        "end": 1350,
+        "text": "add"
+    },
+    {
+        "id": "91",
+        "start": 1350,
+        "end": 1365,
+        "text": "tables,"
+    },
+    {
+        "id": "92",
+        "start": 1365,
+        "end": 1380,
+        "text": "and"
+    },
+    {
+        "id": "93",
+        "start": 1380,
+        "end": 1395,
+        "text": "more."
+    },
+    {
+        "id": "94",
+        "start": 1395,
+        "end": 1410,
+        "text": "To"
+    },
+    {
+        "id": "95",
+        "start": 1410,
+        "end": 1425,
+        "text": "change"
+    },
+    {
+        "id": "96",
+        "start": 1425,
+        "end": 1440,
+        "text": "the"
+    },
+    {
+        "id": "97",
+        "start": 1440,
+        "end": 1455,
+        "text": "font,"
+    },
+    {
+        "id": "98",
+        "start": 1455,
+        "end": 1470,
+        "text": "click"
+    },
+    {
+        "id": "99",
+        "start": 1470,
+        "end": 1485,
+        "text": "on"
+    },
+    {
+        "id": "100",
+        "start": 1485,
+        "end": 1500,
+        "text": "'Arial'"
+    },
+    {
+        "id": "101",
+        "start": 1500,
+        "end": 1515,
+        "text": "and"
+    },
+    {
+        "id": "102",
+        "start": 1515,
+        "end": 1530,
+        "text": "choose"
+    },
+    {
+        "id": "103",
+        "start": 1530,
+        "end": 1545,
+        "text": "a"
+    },
+    {
+        "id": "104",
+        "start": 1545,
+        "end": 1560,
+        "text": "different"
+    },
+    {
+        "id": "105",
+        "start": 1560,
+        "end": 1575,
+        "text": "style."
+    },
+    {
+        "id": "106",
+        "start": 1575,
+        "end": 1590,
+        "text": "You"
+    },
+    {
+        "id": "107",
+        "start": 1590,
+        "end": 1605,
+        "text": "can"
+    },
+    {
+        "id": "108",
+        "start": 1605,
+        "end": 1620,
+        "text": "bold,"
+    },
+    {
+        "id": "109",
+        "start": 1620,
+        "end": 1635,
+        "text": "italicize,"
+    },
+    {
+        "id": "110",
+        "start": 1635,
+        "end": 1650,
+        "text": "or"
+    },
+    {
+        "id": "111",
+        "start": 1650,
+        "end": 1665,
+        "text": "underline"
+    },
+    {
+        "id": "112",
+        "start": 1665,
+        "end": 1680,
+        "text": "text"
+    },
+    {
+        "id": "113",
+        "start": 1680,
+        "end": 1695,
+        "text": "with"
+    },
+    {
+        "id": "114",
+        "start": 1695,
+        "end": 1710,
+        "text": "the"
+    },
+    {
+        "id": "115",
+        "start": 1710,
+        "end": 1725,
+        "text": "icons"
+    },
+    {
+        "id": "116",
+        "start": 1725,
+        "end": 1740,
+        "text": "on"
+    },
+    {
+        "id": "117",
+        "start": 1740,
+        "end": 1755,
+        "text": "the"
+    },
+    {
+        "id": "118",
+        "start": 1755,
+        "end": 1770,
+        "text": "left."
+    },
+    {
+        "id": "119",
+        "start": 1770,
+        "end": 1785,
+        "text": "To"
+    },
+    {
+        "id": "120",
+        "start": 1785,
+        "end": 1800,
+        "text": "share"
+    },
+    {
+        "id": "121",
+        "start": 1800,
+        "end": 1815,
+        "text": "the"
+    },
+    {
+        "id": "122",
+        "start": 1815,
+        "end": 1830,
+        "text": "document,"
+    },
+    {
+        "id": "123",
+        "start": 1830,
+        "end": 1845,
+        "text": "click"
+    },
+    {
+        "id": "124",
+        "start": 1845,
+        "end": 1860,
+        "text": "on"
+    },
+    {
+        "id": "125",
+        "start": 1860,
+        "end": 1875,
+        "text": "'Share'"
+    },
+    {
+        "id": "126",
+        "start": 1875,
+        "end": 1890,
+        "text": "in"
+    },
+    {
+        "id": "113",
+        "start": 1680,
+        "end": 1710,
+        "text": "to"
+    },
+    {
+        "id": "114",
+        "start": 1710,
+        "end": 1740,
+        "text": "share"
+    },
+    {
+        "id": "115",
+        "start": 1740,
+        "end": 1770,
+        "text": "documents"
+    },
+    {
+        "id": "116",
+        "start": 1770,
+        "end": 1800,
+        "text": "easily"
+    },
+    {
+        "id": "117",
+        "start": 1800,
+        "end": 1830,
+        "text": "with"
+    },
+    {
+        "id": "118",
+        "start": 1830,
+        "end": 1860,
+        "text": "others."
+    },
+    {
+        "id": "119",
+        "start": 1860,
+        "end": 1890,
+        "text": "Now"
+    },
+    {
+        "id": "120",
+        "start": 1890,
+        "end": 1920,
+        "text": "let's"
+    },
+    {
+        "id": "121",
+        "start": 1920,
+        "end": 1950,
+        "text": "explore"
+    },
+    {
+        "id": "122",
+        "start": 1950,
+        "end": 1980,
+        "text": "how"
+    },
+    {
+        "id": "123",
+        "start": 1980,
+        "end": 2010,
+        "text": "you"
+    },
+    {
+        "id": "124",
+        "start": 2010,
+        "end": 2040,
+        "text": "can"
+    },
+    {
+        "id": "125",
+        "start": 2040,
+        "end": 2070,
+        "text": "collaborate"
+    },
+    {
+        "id": "126",
+        "start": 2070,
+        "end": 2100,
+        "text": "on"
+    },
+    {
+        "id": "127",
+        "start": 2100,
+        "end": 2130,
+        "text": "Google"
+    },
+    {
+        "id": "128",
+        "start": 2130,
+        "end": 2160,
+        "text": "Docs"
+    },
+    {
+        "id": "129",
+        "start": 2160,
+        "end": 2190,
+        "text": "effectively."
+    },
+    {
+        "id": "130",
+        "start": 2190,
+        "end": 2220,
+        "text": "Simply"
+    },
+    {
+        "id": "131",
+        "start": 2220,
+        "end": 2250,
+        "text": "click"
+    },
+    {
+        "id": "132",
+        "start": 2250,
+        "end": 2280,
+        "text": "on"
+    },
+    {
+        "id": "133",
+        "start": 2280,
+        "end": 2310,
+        "text": "the"
+    },
+    {
+        "id": "134",
+        "start": 2310,
+        "end": 2340,
+        "text": "share"
+    },
+    {
+        "id": "135",
+        "start": 2340,
+        "end": 2370,
+        "text": "button."
+    },
+    {
+        "id": "136",
+        "start": 2370,
+        "end": 2400,
+        "text": "Type"
+    },
+    {
+        "id": "137",
+        "start": 2400,
+        "end": 2430,
+        "text": "the"
+    },
+    {
+        "id": "138",
+        "start": 2430,
+        "end": 2460,
+        "text": "email"
+    },
+    {
+        "id": "139",
+        "start": 2460,
+        "end": 2490,
+        "text": "addresses"
+    },
+    {
+        "id": "140",
+        "start": 2490,
+        "end": 2520,
+        "text": "of"
+    },
+    {
+        "id": "141",
+        "start": 2520,
+        "end": 2550,
+        "text": "people"
+    },
+    {
+        "id": "142",
+        "start": 2550,
+        "end": 2580,
+        "text": "you"
+    },
+    {
+        "id": "143",
+        "start": 2580,
+        "end": 2610,
+        "text": "want"
+    },
+    {
+        "id": "144",
+        "start": 2610,
+        "end": 2640,
+        "text": "to"
+    },
+    {
+        "id": "145",
+        "start": 2640,
+        "end": 2670,
+        "text": "share"
+    },
+    {
+        "id": "146",
+        "start": 2670,
+        "end": 2700,
+        "text": "it"
+    },
+    {
+        "id": "147",
+        "start": 2700,
+        "end": 2730,
+        "text": "with."
+    },
+    {
+        "id": "148",
+        "start": 2730,
+        "end": 2760,
+        "text": "Choose"
+    },
+    {
+        "id": "149",
+        "start": 2760,
+        "end": 2790,
+        "text": "their"
+    },
+    {
+        "id": "150",
+        "start": 2790,
+        "end": 2820,
+        "text": "permissions"
+    },
+    {
+        "id": "151",
+        "start": 2820,
+        "end": 2850,
+        "text": "like"
+    },
+    {
+        "id": "152",
+        "start": 2850,
+        "end": 2880,
+        "text": "view"
+    },
+    {
+        "id": "153",
+        "start": 2880,
+        "end": 2910,
+        "text": "or"
+    },
+    {
+        "id": "154",
+        "start": 2910,
+        "end": 2940,
+        "text": "edit."
+    },
+    {
+        "id": "155",
+        "start": 2940,
+        "end": 2970,
+        "text": "Finally,"
+    },
+    {
+        "id": "156",
+        "start": 2970,
+        "end": 3000,
+        "text": "click"
+    },
+    {
+        "id": "157",
+        "start": 3000,
+        "end": 3030,
+        "text": "send."
+    },
+    {
+        "id": "158",
+        "start": 3030,
+        "end": 3060,
+        "text": "Now"
+    },
+    {
+        "id": "159",
+        "start": 3060,
+        "end": 3090,
+        "text": "you"
+    },
+    {
+        "id": "160",
+        "start": 3090,
+        "end": 3120,
+        "text": "have"
+    },
+    {
+        "id": "161",
+        "start": 3120,
+        "end": 3150,
+        "text": "successfully"
+    },
+    {
+        "id": "162",
+        "start": 3150,
+        "end": 3180,
+        "text": "shared"
+    },
+    {
+        "id": "163",
+        "start": 3180,
+        "end": 3210,
+        "text": "your"
+    },
+    {
+        "id": "164",
+        "start": 3210,
+        "end": 3240,
+        "text": "Google"
+    },
+    {
+        "id": "165",
+        "start": 3240,
+        "end": 3270,
+        "text": "Docs"
+    },
+    {
+        "id": "166",
+        "start": 3270,
+        "end": 3300,
+        "text": "document"
+    },
+    {
+        "id": "167",
+        "start": 3300,
+        "end": 3330,
+        "text": "with"
+    },
+    {
+        "id": "168",
+        "start": 3330,
+        "end": 3360,
+        "text": "others."
+    },
+    {
+        "id": "169",
+        "start": 3360,
+        "end": 3390,
+        "text": "You"
+    },
+    {
+        "id": "170",
+        "start": 3390,
+        "end": 3420,
+        "text": "can"
+    },
+    {
+        "id": "171",
+        "start": 3420,
+        "end": 3450,
+        "text": "now"
+    },
+    {
+        "id": "172",
+        "start": 3450,
+        "end": 3480,
+        "text": "collaborate"
+    },
+    {
+        "id": "173",
+        "start": 3480,
+        "end": 3510,
+        "text": "in"
+    },
+    {
+        "id": "174",
+        "start": 3510,
+        "end": 3540,
+        "text": "real-time"
+    },
+    {
+        "id": "175",
+        "start": 3540,
+        "end": 3570,
+        "text": "with"
+    },
+    {
+        "id": "176",
+        "start": 3570,
+        "end": 3600,
+        "text": "team"
+    },
+    {
+        "id": "177",
+        "start": 3600,
+        "end": 3630,
+        "text": "members."
+    },
+    {
+        "id": "178",
+        "start": 3630,
+        "end": 3660,
+        "text": "You"
+    },
+    {
+        "id": "179",
+        "start": 3660,
+        "end": 3690,
+        "text": "can"
+    },
+    {
+        "id": "180",
+        "start": 3690,
+        "end": 3720,
+        "text": "also"
+    },
+    {
+        "id": "181",
+        "start": 3720,
+        "end": 3750,
+        "text": "restrict"
+    },
+    {
+        "id": "182",
+        "start": 3750,
+        "end": 3780,
+        "text": "permissions"
+    },
+    {
+        "id": "183",
+        "start": 3780,
+        "end": 3810,
+        "text": "for"
+    },
+    {
+        "id": "184",
+        "start": 3810,
+        "end": 3840,
+        "text": "specific"
+    },
+    {
+        "id": "185",
+        "start": 3840,
+        "end": 3870,
+        "text": "people."
+    },
+    {
+        "id": "186",
+        "start": 3870,
+        "end": 3900,
+        "text": "This"
+    },
+    {
+        "id": "187",
+        "start": 3900,
+        "end": 3930,
+        "text": "is"
+    },
+    {
+        "id": "188",
+        "start": 3930,
+        "end": 3960,
+        "text": "helpful"
+    },
+    {
+        "id": "189",
+        "start": 3960,
+        "end": 3990,
+        "text": "for"
+    },
+    {
+        "id": "190",
+        "start": 3990,
+        "end": 4020,
+        "text": "maintaining"
+    },
+    {
+        "id": "191",
+        "start": 4020,
+        "end": 4050,
+        "text": "control"
+    },
+    {
+        "id": "192",
+        "start": 4050,
+        "end": 4080,
+        "text": "over"
+    },
+    {
+        "id": "193",
+        "start": 4080,
+        "end": 4110,
+        "text": "confidential"
+    },
+    {
+        "id": "194",
+        "start": 4110,
+        "end": 4140,
+        "text": "information"
+    },
+    {
+        "id": "195",
+        "start": 4140,
+        "end": 4170,
+        "text": "while"
+    },
+    {
+        "id": "196",
+        "start": 4170,
+        "end": 4200,
+        "text": "collaborating."
+    },
+    {
+        "id": "197",
+        "start": 4200,
+        "end": 4230,
+        "text": "It's"
+    },
+    {
+        "id": "198",
+        "start": 4230,
+        "end": 4260,
+        "text": "a"
+    },
+    {
+        "id": "199",
+        "start": 4260,
+        "end": 4290,
+        "text": "simple"
+    },
+    {
+        "id": "200",
+        "start": 4290,
+        "end": 4320,
+        "text": "and"
+    },
+    {
+        "id": "201",
+        "start": 4320,
+        "end": 4350,
+        "text": "efficient"
+    },
+    {
+        "id": "202",
+        "start": 4350,
+        "end": 4380,
+        "text": "way"
+    },
+    {
+        "id": "203",
+        "start": 4380,
+        "end": 4410,
+        "text": "to"
+    },
+    {
+        "id": "204",
+        "start": 4410,
+        "end": 4440,
+        "text": "share"
+    },
+    {
+        "id": "205",
+        "start": 4440,
+        "end": 4470,
+        "text": "and"
+    },
+    {
+        "id": "206",
+        "start": 4470,
+        "end": 4500,
+        "text": "collaborate"
+    },
+    {
+        "id": "207",
+        "start": 4500,
+        "end": 4530,
+        "text": "on"
+    },
+    {
+        "id": "208",
+        "start": 4530,
+        "end": 4560,
+        "text": "Google"
+    },
+    {
+        "id": "209",
+        "start": 4560,
+        "end": 4590,
+        "text": "Docs."
+    },
+    {
+        "id": "210",
+        "start": 4590,
+        "end": 4620,
+        "text": "You"
+    },
+    {
+        "id": "211",
+        "start": 4620,
+        "end": 4650,
+        "text": "can"
+    },
+    {
+        "id": "212",
+        "start": 4650,
+        "end": 4680,
+        "text": "easily"
+    },
+    {
+        "id": "213",
+        "start": 4680,
+        "end": 4710,
+        "text": "manage"
+    },
+    {
+        "id": "214",
+        "start": 4710,
+        "end": 4740,
+        "text": "permissions"
+    },
+    {
+        "id": "215",
+        "start": 4740,
+        "end": 4770,
+        "text": "and"
+    },
+    {
+        "id": "216",
+        "start": 4770,
+        "end": 4800,
+        "text": "keep"
+    },
+    {
+        "id": "217",
+        "start": 4800,
+        "end": 4830,
+        "text": "everything"
+    },
+    {
+        "id": "218",
+        "start": 4830,
+        "end": 4860,
+        "text": "secure."
+    },
+    {
+        "id": "219",
+        "start": 4860,
+        "end": 4890,
+        "text": "With"
+    },
+    {
+        "id": "220",
+        "start": 4890,
+        "end": 4920,
+        "text": "Google"
+    },
+    {
+        "id": "221",
+        "start": 4920,
+        "end": 4950,
+        "text": "Docs,"
+    },
+    {
+        "id": "222",
+        "start": 4950,
+        "end": 4980,
+        "text": "you"
+    },
+    {
+        "id": "223",
+        "start": 4980,
+        "end": 5010,
+        "text": "can"
+    },
+    {
+        "id": "224",
+        "start": 5010,
+        "end": 5040,
+        "text": "collaborate"
+    },
+    {
+        "id": "225",
+        "start": 5040,
+        "end": 5070,
+        "text": "in"
+    },
+    {
+        "id": "226",
+        "start": 5070,
+        "end": 5100,
+        "text": "real-time"
+    },
+    {
+        "id": "227",
+        "start": 5100,
+        "end": 5130,
+        "text": "and"
+    },
+    {
+        "id": "228",
+        "start": 5130,
+        "end": 5160,
+        "text": "track"
+    },
+    {
+        "id": "229",
+        "start": 5160,
+        "end": 5190,
+        "text": "changes"
+    },
+    {
+        "id": "230",
+        "start": 5190,
+        "end": 5220,
+        "text": "easily."
+    },
+    {
+        "id": "231",
+        "start": 5220,
+        "end": 5250,
+        "text": "This"
+    },
+    {
+        "id": "232",
+        "start": 5250,
+        "end": 5280,
+        "text": "makes"
+    },
+    {
+        "id": "233",
+        "start": 5280,
+        "end": 5310,
+        "text": "it"
+    },
+    {
+        "id": "234",
+        "start": 5310,
+        "end": 5340,
+        "text": "a"
+    },
+    {
+        "id": "235",
+        "start": 5340,
+        "end": 5370,
+        "text": "great"
+    },
+    {
+        "id": "236",
+        "start": 5370,
+        "end": 5400,
+        "text": "tool"
+    },
+    {
+        "id": "237",
+        "start": 5400,
+        "end": 5430,
+        "text": "for"
+    },
+    {
+        "id": "238",
+        "start": 5430,
+        "end": 5460,
+        "text": "teams"
+    },
+    {
+        "id": "239",
+        "start": 5460,
+        "end": 5490,
+        "text": "and"
+    },
+    {
+        "id": "240",
+        "start": 5490,
+        "end": 5520,
+        "text": "individuals"
+    },
+    {
+        "id": "241",
+        "start": 5520,
+        "end": 5550,
+        "text": "who"
+    },
+    {
+        "id": "242",
+        "start": 5550,
+        "end": 5580,
+        "text": "need"
+    },
+    {
+        "id": "243",
+        "start": 5580,
+        "end": 5610,
+        "text": "to"
+    },
+    {
+        "id": "244",
+        "start": 5610,
+        "end": 5640,
+        "text": "work"
+    },
+    {
+        "id": "245",
+        "start": 5640,
+        "end": 5670,
+        "text": "together"
+    },
+    {
+        "id": "246",
+        "start": 5670,
+        "end": 5700,
+        "text": "remotely."
+    },
+    {
+        "id": "247",
+        "start": 5700,
+        "end": 5730,
+        "text": "It"
+    },
+    {
+        "id": "248",
+        "start": 5730,
+        "end": 5760,
+        "text": "offers"
+    },
+    {
+        "id": "249",
+        "start": 5760,
+        "end": 5790,
+        "text": "a"
+    },
+    {
+        "id": "250",
+        "start": 5790,
+        "end": 5820,
+        "text": "secure"
+    },
+    {
+        "id": "251",
+        "start": 5820,
+        "end": 5850,
+        "text": "and"
+    },
+    {
+        "id": "252",
+        "start": 5850,
+        "end": 5880,
+        "text": "streamlined"
+    },
+    {
+        "id": "253",
+        "start": 5880,
+        "end": 5910,
+        "text": "environment"
+    },
+    {
+        "id": "254",
+        "start": 5910,
+        "end": 5940,
+        "text": "for"
+    },
+    {
+        "id": "255",
+        "start": 5940,
+        "end": 5970,
+        "text": "document"
+    },
+    {
+        "id": "256",
+        "start": 5970,
+        "end": 6000,
+        "text": "collaboration."
+    },
+    {
+        "id": "257",
+        "start": 6000,
+        "end": 6030,
+        "text": "Google"
+    },
+    {
+        "id": "258",
+        "start": 6030,
+        "end": 6060,
+        "text": "Docs"
+    },
+    {
+        "id": "259",
+        "start": 6060,
+        "end": 6090,
+        "text": "is"
+    },
+    {
+        "id": "260",
+        "start": 6090,
+        "end": 6120,
+        "text": "designed"
+    },
+    {
+        "id": "261",
+        "start": 6120,
+        "end": 6150,
+        "text": "to"
+    },
+    {
+        "id": "262",
+        "start": 6150,
+        "end": 6180,
+        "text": "support"
+    },
+    {
+        "id": "263",
+        "start": 6180,
+        "end": 6210,
+        "text": "team"
+    },
+    {
+        "id": "264",
+        "start": 6210,
+        "end": 6240,
+        "text": "collaboration"
+    },
+    {
+        "id": "265",
+        "start": 6240,
+        "end": 6270,
+        "text": "by"
+    },
+    {
+        "id": "266",
+        "start": 6270,
+        "end": 6300,
+        "text": "offering"
+    },
+    {
+        "id": "267",
+        "start": 6300,
+        "end": 6330,
+        "text": "shared"
+    },
+    {
+        "id": "268",
+        "start": 6330,
+        "end": 6360,
+        "text": "editing"
+    },
+    {
+        "id": "269",
+        "start": 6360,
+        "end": 6390,
+        "text": "features"
+    },
+    {
+        "id": "270",
+        "start": 6390,
+        "end": 6420,
+        "text": "and"
+    },
+    {
+        "id": "271",
+        "start": 6420,
+        "end": 6450,
+        "text": "commenting"
+    },
+    {
+        "id": "272",
+        "start": 6450,
+        "end": 6480,
+        "text": "capabilities."
+    },
+    {
+        "id": "273",
+        "start": 6480,
+        "end": 6510,
+        "text": "It's"
+    },
+    {
+        "id": "274",
+        "start": 6510,
+        "end": 6540,
+        "text": "ideal"
+    },
+    {
+        "id": "275",
+        "start": 6540,
+        "end": 6570,
+        "text": "for"
+    },
+    {
+        "id": "276",
+        "start": 6570,
+        "end": 6600,
+        "text": "companies"
+    },
+    {
+        "id": "277",
+        "start": 6600,
+        "end": 6630,
+        "text": "working"
+    },
+    {
+        "id": "278",
+        "start": 6630,
+        "end": 6660,
+        "text": "remotely"
+    },
+    {
+        "id": "279",
+        "start": 6660,
+        "end": 6690,
+        "text": "or"
+    },
+    {
+        "id": "280",
+        "start": 6690,
+        "end": 6720,
+        "text": "freelancers"
+    },
+    {
+        "id": "281",
+        "start": 6720,
+        "end": 6750,
+        "text": "collaborating"
+    },
+    {
+        "id": "282",
+        "start": 6750,
+        "end": 6780,
+        "text": "on"
+    },
+    {
+        "id": "283",
+        "start": 6780,
+        "end": 6810,
+        "text": "multiple"
+    },
+    {
+        "id": "284",
+        "start": 6810,
+        "end": 6840,
+        "text": "projects."
+    },
+    {
+        "id": "285",
+        "start": 6840,
+        "end": 6870,
+        "text": "Google"
+    },
+    {
+        "id": "286",
+        "start": 6870,
+        "end": 6900,
+        "text": "Docs"
+    },
+    {
+        "id": "287",
+        "start": 6900,
+        "end": 6930,
+        "text": "ensures"
+    },
+    {
+        "id": "288",
+        "start": 6930,
+        "end": 6960,
+        "text": "the"
+    },
+    {
+        "id": "289",
+        "start": 6960,
+        "end": 6990,
+        "text": "privacy"
+    },
+    {
+        "id": "290",
+        "start": 6990,
+        "end": 7020,
+        "text": "and"
+    },
+    {
+        "id": "291",
+        "start": 7020,
+        "end": 7050,
+        "text": "security"
+    },
+    {
+        "id": "292",
+        "start": 7050,
+        "end": 7080,
+        "text": "of"
+    },
+    {
+        "id": "293",
+        "start": 7080,
+        "end": 7110,
+        "text": "shared"
+    },
+    {
+        "id": "294",
+        "start": 7110,
+        "end": 7140,
+        "text": "documents."
+    },
+    {
+        "id": "295",
+        "start": 7140,
+        "end": 7170,
+        "text": "Permissions"
+    },
+    {
+        "id": "296",
+        "start": 7170,
+        "end": 7200,
+        "text": "can"
+    },
+    {
+        "id": "297",
+        "start": 7200,
+        "end": 7230,
+        "text": "be"
+    },
+    {
+        "id": "298",
+        "start": 7230,
+        "end": 7260,
+        "text": "managed"
+    },
+    {
+        "id": "299",
+        "start": 7260,
+        "end": 7290,
+        "text": "at"
+    },
+    {
+        "id": "300",
+        "start": 7290,
+        "end": 7320,
+        "text": "granular"
+    },
+    {
+        "id": "301",
+        "start": 7320,
+        "end": 7350,
+        "text": "levels,"
+    },
+    {
+        "id": "302",
+        "start": 7350,
+        "end": 7380,
+        "text": "allowing"
+    },
+    {
+        "id": "303",
+        "start": 7380,
+        "end": 7410,
+        "text": "users"
+    },
+    {
+        "id": "304",
+        "start": 7410,
+        "end": 7440,
+        "text": "to"
+    },
+    {
+        "id": "305",
+        "start": 7440,
+        "end": 7470,
+        "text": "control"
+    },
+    {
+        "id": "306",
+        "start": 7470,
+        "end": 7500,
+        "text": "who"
+    },
+    {
+        "id": "307",
+        "start": 7500,
+        "end": 7530,
+        "text": "can"
+    },
+    {
+        "id": "308",
+        "start": 7530,
+        "end": 7560,
+        "text": "view"
+    },
+    {
+        "id": "309",
+        "start": 7560,
+        "end": 7590,
+        "text": "or"
+    },
+    {
+        "id": "310",
+        "start": 7590,
+        "end": 7620,
+        "text": "edit"
+    },
+    {
+        "id": "311",
+        "start": 7620,
+        "end": 7650,
+        "text": "the"
+    },
+    {
+        "id": "312",
+        "start": 7650,
+        "end": 7680,
+        "text": "document."
+    },
+    {
+        "id": "313",
+        "start": 7680,
+        "end": 7710,
+        "text": "Google"
+    },
+    {
+        "id": "314",
+        "start": 7710,
+        "end": 7740,
+        "text": "Docs"
+    },
+    {
+        "id": "315",
+        "start": 7740,
+        "end": 7770,
+        "text": "provides"
+    },
+    {
+        "id": "316",
+        "start": 7770,
+        "end": 7800,
+        "text": "real-time"
+    },
+    {
+        "id": "317",
+        "start": 7800,
+        "end": 7830,
+        "text": "updates"
+    },
+    {
+        "id": "318",
+        "start": 7830,
+        "end": 7860,
+        "text": "so"
+    },
+    {
+        "id": "319",
+        "start": 7860,
+        "end": 7890,
+        "text": "you"
+    },
+    {
+        "id": "320",
+        "start": 7890,
+        "end": 7920,
+        "text": "can"
+    },
+    {
+        "id": "321",
+        "start": 7920,
+        "end": 7950,
+        "text": "see"
+    },
+    {
+        "id": "322",
+        "start": 7950,
+        "end": 7980,
+        "text": "how"
+    },
+    {
+        "id": "323",
+        "start": 7980,
+        "end": 8010,
+        "text": "your"
+    },
+    {
+        "id": "324",
+        "start": 8010,
+        "end": 8040,
+        "text": "collaborators"
+    },
+    {
+        "id": "325",
+        "start": 8040,
+        "end": 8070,
+        "text": "are"
+    },
+    {
+        "id": "326",
+        "start": 8070,
+        "end": 8100,
+        "text": "interacting"
+    },
+    {
+        "id": "327",
+        "start": 8100,
+        "end": 8130,
+        "text": "with"
+    },
+    {
+        "id": "328",
+        "start": 8130,
+        "end": 8160,
+        "text": "the"
+    },
+    {
+        "id": "329",
+        "start": 8160,
+        "end": 8190,
+        "text": "document."
+    },
+    {
+        "id": "330",
+        "start": 8190,
+        "end": 8220,
+        "text": "It's"
+    },
+    {
+        "id": "331",
+        "start": 8220,
+        "end": 8250,
+        "text": "a"
+    },
+    {
+        "id": "332",
+        "start": 8250,
+        "end": 8280,
+        "text": "powerful"
+    },
+    {
+        "id": "333",
+        "start": 8280,
+        "end": 8310,
+        "text": "tool"
+    },
+    {
+        "id": "334",
+        "start": 8310,
+        "end": 8340,
+        "text": "for"
+    },
+    {
+        "id": "335",
+        "start": 8340,
+        "end": 8370,
+        "text": "both"
+    },
+    {
+        "id": "336",
+        "start": 8370,
+        "end": 8400,
+        "text": "individuals"
+    },
+    {
+        "id": "337",
+        "start": 8400,
+        "end": 8430,
+        "text": "and"
+    },
+    {
+        "id": "338",
+        "start": 8430,
+        "end": 8460,
+        "text": "teams"
+    },
+    {
+        "id": "339",
+        "start": 8460,
+        "end": 8490,
+        "text": "working"
+    },
+    {
+        "id": "340",
+        "start": 8490,
+        "end": 8520,
+        "text": "together"
+    }
+]
